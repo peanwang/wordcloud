@@ -31,7 +31,7 @@ def __main__():
     plt.imshow(w, interpolation="bilinear")
     plt.show()
 
-    w.to_file(os.path.join(d, 'pic.png'))
+    w.to_file(os.path.join(d, 'fish.png'))
 
 
 
