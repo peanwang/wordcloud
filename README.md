@@ -123,7 +123,8 @@ def __main__():
 if __name__ == "__main__":
     __main__()
 ```
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200116152145650.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MTI1NjQxMw==,size_16,color_FFFFFF,t_70)
+![fish.jpg](https://github.com/peanwang/wordcloud/blob/master/fish.jpg)
+![fish.png](https://github.com/peanwang/wordcloud/blob/master/fish.png)
 # 九：中文词云
 
 ```python
@@ -171,5 +172,5 @@ if __name__ == "__main__":
     __main__()
 
 ```
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200116152856539.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MTI1NjQxMw==,size_16,color_FFFFFF,t_70)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200116152908260.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MTI1NjQxMw==,size_16,color_FFFFFF,t_70)
+![cat.jpg](https://github.com/peanwang/wordcloud/blob/master/cat.jpg)
+![cat.png](https://github.com/peanwang/wordcloud/blob/master/cat.png)
