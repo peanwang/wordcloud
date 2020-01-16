@@ -82,6 +82,7 @@ for str in jieba.lcut(text):
 w.generate_from_frequencies(word_frequent) 
 ```
 # 八：英文词云
+英文材料来自![heart attract](http://lunwendata.com/thesis/2008/21613.html)
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
@@ -126,7 +127,7 @@ if __name__ == "__main__":
 ![fish.jpg](https://github.com/peanwang/wordcloud/blob/master/fish.jpg)
 ![fish.png](https://github.com/peanwang/wordcloud/blob/master/fish.png)
 # 九：中文词云
-
+中文材料来自![中国共产党第十九届中央纪律检查委员会第四次全体会议公报](http://fanfu.people.com.cn/n1/2020/0115/c64371-31550082.html)
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
